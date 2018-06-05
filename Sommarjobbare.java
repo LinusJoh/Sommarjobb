@@ -5,6 +5,7 @@ public class Sommarjobbare {
     public int plus(int a, int b){
 	return (a+b);
     }    
+    public int mul(int a, int b) return a*b;
 }
 
 
